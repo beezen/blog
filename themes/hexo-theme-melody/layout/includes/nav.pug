@@ -1,0 +1,14 @@
+- var top_img = page.top_img || theme.post_meta.top_img || theme.top_img || config.top_img || true
+- var bg_img = top_img && top_img !== true ? `background-image: url(${top_img})` : ''
+- var flag = top_img === true ? 'no-bg' : ''
+nav#nav(style=bg_img,class=flag)
+  include ./header.pug
+  #typeElement
+    div
+      span.typeElement
+  canvas(class="banner-canvas" id="banner-canvas")
+
+script(src="/third-party/typed.js",defer)
+script(src="/js/banner.js",defer)
+  
+    

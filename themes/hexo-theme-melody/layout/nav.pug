@@ -1,0 +1,9 @@
+style .nav-list{margin-top:30px;}.nav-group{margin:20px 0;}.nav-group-title{font-weight:700;font-size:18px;}.nav-group-btn {margin-right:20px;color:#{theme.theme_color.main}}
+.nav-list
+  each item in page.navList
+    .nav-group
+      .nav-group-title #{item.title}
+      .nav-group-links 
+        each l in item.links
+          a.nav-group-btn(href=l.href,target="_blank",rel="noopener noreferrer") #{l.title}
+  
