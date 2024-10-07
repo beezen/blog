@@ -9,7 +9,7 @@ try {
   const data = yaml.load(fs.readFileSync(srcFile, "utf8"));
   Object.assign(data.deploy, config.deploy);
   fs.writeFileSync(targetFile, yaml.dump(data));
-  console.log("yml file generated successfully", err);
+  console.log("yml file generated successfully");
 } catch (err) {
   console.log("yml file generation failure", err);
 }

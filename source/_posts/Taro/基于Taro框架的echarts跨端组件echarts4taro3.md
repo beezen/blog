@@ -1,5 +1,5 @@
 ---
-title: Taro 框架中终于迎来了 Echarts 跨端组件 echarts4taro3
+title: Taro 框架终于迎来了 Echarts 跨端组件 echarts4taro3
 tags:
   - echarts
   - Taro
