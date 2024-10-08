@@ -3,8 +3,7 @@ title: 玩转 JavaScript 中的字符串（一）—— 什么是字符串？
 tags:
   - javascript
   - 字符串
-categories:
-  - 其他
+categories: javascript
 abbrlink: 46062
 date: 2023-11-09 17:04:31
 ---

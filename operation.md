@@ -16,6 +16,7 @@ hexo new [文章名] # 创建文章，未完成文章可移动到 draft 目录
 - Nucm
 - Taro
 - 小程序
+- javascript
 - 总结
 - 其他
 - GMU

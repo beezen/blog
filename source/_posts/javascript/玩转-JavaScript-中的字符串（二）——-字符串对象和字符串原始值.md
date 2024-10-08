@@ -4,8 +4,7 @@ tags:
   - javascript
   - 字符串对象
   - 字符串原始值
-categories:
-  - - 其他
+categories: javascript
 abbrlink: 2120
 date: 2023-11-09 17:08:22
 ---

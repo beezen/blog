@@ -5,9 +5,10 @@ const yaml = require("js-yaml");
 
 const Article = {
   Taro: "Taro 技术系列：",
-  Nucm: "Nucm 技术系列：",
+  javascript: "javascript 基础：",
   跨端: "跨端思考系列：",
   总结: "自我总结：",
+  Nucm: "Nucm 技术系列：",
   其他: "其他：",
 };
 

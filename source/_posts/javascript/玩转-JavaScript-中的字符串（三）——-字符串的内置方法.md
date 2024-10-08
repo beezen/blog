@@ -3,8 +3,7 @@ title: 玩转 JavaScript 中的字符串（三）—— 字符串的内置方法
 tags:
   - javascript
   - 字符串
-categories:
-  - - 其他
+categories: javascript
 abbrlink: 41635
 date: 2023-11-09 17:12:15
 ---

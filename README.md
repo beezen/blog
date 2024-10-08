@@ -17,18 +17,20 @@
 - [Taro 转快应用的那些事（三） - 2020-09-21](https://dongbizhen.com/posts/36611/) 
 - [Taro 转快应用的那些事（四） - 2020-09-22](https://dongbizhen.com/posts/57794/) 
 - [Taro 框架中该如何使用 Vant 组件库-适配多端 - 2021-12-28](https://dongbizhen.com/posts/23025/) 
-- [Taro 框架中终于迎来了 Echarts 跨端组件 echarts4taro3 - 2022-01-13](https://dongbizhen.com/posts/31926/) 
+- [Taro 框架终于迎来了 Echarts 跨端组件 echarts4taro3 - 2022-01-13](https://dongbizhen.com/posts/31926/) 
 - [Taro 版本从 v3.3.x 升级到 v3.5.x 的踩坑指南 - 2022-12-22](https://dongbizhen.com/posts/61033/) 
 - [探索 Taro 跨端框架中 Vue2 的 render 和 h 函数无法渲染组件的问题 - 2023-04-14](https://dongbizhen.com/posts/28373/) 
 - [优化 Taro 项目数据处理：使用 Vuex 进行全局状态管理 - 2023-04-20](https://dongbizhen.com/posts/19357/) 
-- [Taro 版本升级指南：快速上手 v3.5.6 ➔ v3.6.22！ - 2024-01-31](https://dongbizhen.com/posts/undefined/) 
+- [Taro 版本升级指南：快速上手 v3.5.6 ➔ v3.6.22！ - 2024-01-31](https://dongbizhen.com/posts/16761/) 
 - [Taro 框架二次开发全攻略：渐进式开发模式 - 2024-04-16](https://dongbizhen.com/posts/19741/) 
 
-### Nucm 技术系列： 
+### javascript 基础： 
 
-- [优秀前端人必须知道的 NPM 账号管理工具 - 2022-01-30](https://dongbizhen.com/posts/1619/) 
-- [NUCM（NPM 账号管理工具）新发布的这两个功能，你值得拥有 - 2022-03-24](https://dongbizhen.com/posts/57408/) 
-- [如何优雅的管理 NPM 账号 - 2024-04-16](https://dongbizhen.com/posts/15341/) 
+- [玩转 JavaScript 中的字符串（一）—— 什么是字符串？ - 2023-11-10](https://dongbizhen.com/posts/46062/) 
+- [玩转 JavaScript 中的字符串（二）—— 字符串对象和字符串原始值 - 2023-11-10](https://dongbizhen.com/posts/2120/) 
+- [玩转 JavaScript 中的字符串（三）—— 字符串的内置方法 - 2023-11-10](https://dongbizhen.com/posts/41635/) 
+- [玩转 JavaScript 中的字符串（四）—— 字符串的编码 - 2023-11-10](https://dongbizhen.com/posts/63863/) 
+- [玩转 JavaScript 中的字符串（五）—— 正则表达式操作字符串 - 2023-11-10](https://dongbizhen.com/posts/16797/) 
 
 ### 跨端思考系列： 
 
@@ -48,6 +50,12 @@
 - [2022年度总结 - 2022-12-23](https://dongbizhen.com/posts/19562/) 
 - [掌握开源项目的二次开发技巧 - 2024-04-16](https://dongbizhen.com/posts/25000/) 
 
+### Nucm 技术系列： 
+
+- [优秀前端人必须知道的 NPM 账号管理工具 - 2022-01-30](https://dongbizhen.com/posts/1619/) 
+- [NUCM（NPM 账号管理工具）新发布的这两个功能，你值得拥有 - 2022-03-24](https://dongbizhen.com/posts/57408/) 
+- [如何优雅的管理 NPM 账号 - 2024-04-16](https://dongbizhen.com/posts/15341/) 
+
 ### 其他： 
 
 - [前端无痕埋点技术架构解析 - 2019-12-01](https://dongbizhen.com/posts/53777/) 
@@ -63,11 +71,6 @@
 - [使用 mescroll.js 实现下拉加载历史消息功能 - 2021-11-03](https://dongbizhen.com/posts/5440/) 
 - [uni-app 与小程序原生项目混合开发方案概述 - 2022-01-01](https://dongbizhen.com/posts/54657/) 
 - [基于 vue-demi 实现 Echarts 跨端组件在 Vue 2 和 Vue 3 中的语法统一化 - 2023-02-08](https://dongbizhen.com/posts/36583/) 
-- [玩转 JavaScript 中的字符串（一）—— 什么是字符串？ - 2023-11-10](https://dongbizhen.com/posts/46062/) 
-- [玩转 JavaScript 中的字符串（二）—— 字符串对象和字符串原始值 - 2023-11-10](https://dongbizhen.com/posts/2120/) 
-- [玩转 JavaScript 中的字符串（三）—— 字符串的内置方法 - 2023-11-10](https://dongbizhen.com/posts/41635/) 
-- [玩转 JavaScript 中的字符串（四）—— 字符串的编码 - 2023-11-10](https://dongbizhen.com/posts/63863/) 
-- [玩转 JavaScript 中的字符串（五）—— 正则表达式操作字符串 - 2023-11-10](https://dongbizhen.com/posts/16797/) 
 - [突破项目瓶颈：2024 年 Monorepo 工具选择和实践 - 2024-03-05](https://dongbizhen.com/posts/48225/) 
 - [浏览器兼容问题解决方案：实用技巧与开源框架实践 - 2024-05-12](https://dongbizhen.com/posts/15335/) 
 - [开发阶段！跨域问题多种解决方案的精华总结 - 2024-05-12](https://dongbizhen.com/posts/64096/) 

@@ -3,8 +3,7 @@ title: 玩转 JavaScript 中的字符串（五）—— 正则表达式操作字
 tags:
   - javascript
   - 字符串
-categories:
-  - 其他
+categories: javascript
 abbrlink: 16797
 date: 2023-11-10 08:40:21
 ---
